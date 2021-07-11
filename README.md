@@ -6,7 +6,6 @@ Structure of Project:
 
 ```
 ├── LICENSE
-├── 
 ├── .gitignore
 ├── requirements.txt   <- requirements file for reproducing with `pip freeze > requirements.txt`
 ├── data
